@@ -1,1 +1,1 @@
-# ThePigGame
+# Just another dice game
